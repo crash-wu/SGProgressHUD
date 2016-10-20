@@ -1,0 +1,16 @@
+PODS:
+  - SGProgressHUD (0.1.0)
+
+DEPENDENCIES:
+  - SGProgressHUD (from `../`)
+
+EXTERNAL SOURCES:
+  SGProgressHUD:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SGProgressHUD: 8f9e11726be75f3e92ae323a96f1c5ed88aaeeb2
+
+PODFILE CHECKSUM: 6611d1309d75528634c4dbabddf3aec399d5e576
+
+COCOAPODS: 1.0.1
